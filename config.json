@@ -1,0 +1,33 @@
+{
+  "title": "Personal Homepage",
+  "name": "Dimitar Garkov",
+  "ascii": "funny face",
+  "social": {
+    "github": "dgarkov",
+    "dblp": "251/2638"
+  },
+  "email": "dimitar.garkov@uni-konstanz.de",
+  "ps1_hostname": "dgarkov.github.io",
+  "ps1_username": "visitor",
+  "resume_url": "",
+  "colors": {
+    "light": {
+      "background": "#000000",
+      "foreground": "#E5E9F0",
+      "yellow": "#00FF00",
+      "green": "#FF00FF",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#88C0D0"
+    },
+    "dark": {
+      "background": "#000000",
+      "foreground": "#E5E9F0",
+      "yellow": "#00FF00",
+      "green": "#FF00FF",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#88C0D0"
+    }
+  }
+}

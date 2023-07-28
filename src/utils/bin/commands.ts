@@ -95,8 +95,8 @@ export const sudo = async (args?: string[]): Promise<string> => {
 // Banner
 export const banner = (args?: string[]): string => {
   return `
-                      Dimitar Garkov
-                      ==============
+                         Dimitar Garkov
+                         ==============                                                 
 
           University of Konstanz
           Department of Computer and Information Science
@@ -114,12 +114,9 @@ export const banner = (args?: string[]): string => {
 
           Teaching and Responsibilities
           -----------------------------
-          WT 23/24    Unity Crash Course
-          ST 23       Analysis and Exploration of Metabolic Networks (Tutorial)
           ST 23       Realization of an Exhibition
           ST 23       Interactive Media Development for Exhibitions
           ST 23       Seminar Life Science Informatics
-          WT 22/23    Unity Crash Course
           WT 22/23    Petri Nets and Applications in the Life Sciences (Exercises)
              21/22    Doctoral co-speaker of SFB/Transregio 161
           WT 21/22    Petri Nets (Exercises)
@@ -127,6 +124,11 @@ export const banner = (args?: string[]): string => {
           WT 20/21    Network Visualisation (Exercises)
           ST 20       Petri Nets (Exercises)
           WT 19/20    Network Visualisation (Exercises)
+          - - - -
+          WT 23/24    Unity Crash Course
+          ST 23       Analysis and Exploration of Metabolic Networks
+          WT 22/23    Unity Crash Course
+
 
           Selected Publications
           ---------------------

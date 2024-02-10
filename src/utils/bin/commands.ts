@@ -96,7 +96,7 @@ export const sudo = async (args?: string[]): Promise<string> => {
 export const banner = (args?: string[]): string => {
   return `
                          Dimitar Garkov
-                         ==============                                                 
+                         ==============
 
           University of Konstanz
           Department of Computer and Information Science
@@ -112,23 +112,24 @@ export const banner = (args?: string[]): string => {
           - Visualisation and Quantification of Brain Structure
           - Network Visualisation and Analysis
 
-          Teaching and Responsibilities
+          Teaching: Exercises & Workshops
           -----------------------------
-          ST 23       Realization of an Exhibition
+          WT 23/24    Petri Nets and Applications in the Life Sciences
+          ST 23       Realization of an Exhibition: <a href="https://youtopia-konstanz.de/"><u>YOUTOPIA</u></a>
           ST 23       Interactive Media Development for Exhibitions
           ST 23       Seminar Life Science Informatics
-          WT 22/23    Petri Nets and Applications in the Life Sciences (Exercises)
-             21/22    Doctoral co-speaker of SFB/Transregio 161
-          WT 21/22    Petri Nets (Exercises)
-          WT 20/21    Immersive Analytics (Exercises)
-          WT 20/21    Network Visualisation (Exercises)
-          ST 20       Petri Nets (Exercises)
-          WT 19/20    Network Visualisation (Exercises)
+          WT 22/23    Petri Nets and Applications in the Life Sciences
+          WT 21/22    Petri Nets
+          WT 20/21    Immersive Analytics
+          WT 20/21    Network Visualisation
+          ST 20       Petri Nets
+          WT 19/20    Network Visualisation
           - - - -
           WT 23/24    Unity Crash Course
           ST 23       Analysis and Exploration of Metabolic Networks
           WT 22/23    Unity Crash Course
-
+          - - - -
+             21/22    Doctoral speaker of SFB/Transregio 161
 
           Selected Publications
           ---------------------

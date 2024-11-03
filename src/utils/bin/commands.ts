@@ -106,14 +106,16 @@ export const banner = (args?: string[]): string => {
 
           Research Interests
           ------------------
-          - Immersive Analytics
           - Collaboration in Immersive Environments
           - Research Data Management and Curation
           - Visualisation and Quantification of Brain Structure
+          - Immersive Analytics
           - Network Visualisation and Analysis
 
-          Teaching: Exercises & Workshops
+          Teaching Assistance
           -------------------------------
+          WT 24/25    Concepts of computer science
+          ST 24       Seminar Life Science Informatics
           WT 23/24    Petri Nets and Applications in the Life Sciences
           ST 23       Realization of an Exhibition: <a href="https://youtopia-konstanz.de/"><u>YOUTOPIA</u></a>
           ST 23       Interactive Media Development for Exhibitions

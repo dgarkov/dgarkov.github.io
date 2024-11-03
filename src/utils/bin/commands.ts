@@ -114,7 +114,7 @@ export const banner = (args?: string[]): string => {
 
           Teaching Assistance
           -------------------------------
-          WT 24/25    Concepts of computer science
+          WT 24/25    Concepts of Computer Science
           ST 24       Seminar Life Science Informatics
           WT 23/24    Petri Nets and Applications in the Life Sciences
           ST 23       Realization of an Exhibition: <a href="https://youtopia-konstanz.de/"><u>YOUTOPIA</u></a>

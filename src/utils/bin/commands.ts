@@ -106,14 +106,17 @@ export const banner = (args?: string[]): string => {
 
           Research Interests
           ------------------
-          - Immersive Analytics
           - Collaboration in Immersive Environments
-          - Research Data Management and Curation
-          - Visualisation and Quantification of Brain Structure
+          - Immersive Analytics for Brain Structure
           - Network Visualisation and Analysis
+          - Research Data Management and Curation
 
           Teaching: Exercises & Workshops
           -------------------------------
+          WT 25/26    Computer Systems and Networks (two tutorials)
+          ST 25       Seminar Life Science Informatics
+          WT 24/25    Concepts of Computer Science
+          ST 24       Seminar Life Science Informatics
           WT 23/24    Petri Nets and Applications in the Life Sciences
           ST 23       Realization of an Exhibition: <a href="https://youtopia-konstanz.de/"><u>YOUTOPIA</u></a>
           ST 23       Interactive Media Development for Exhibitions
@@ -125,6 +128,7 @@ export const banner = (args?: string[]): string => {
           ST 20       Petri Nets
           WT 19/20    Network Visualisation
           - - - -
+          ST 25       Analysis and Exploration of Metabolic Networks
           WT 23/24    Unity Crash Course
           ST 23       Analysis and Exploration of Metabolic Networks
           WT 22/23    Unity Crash Course
@@ -133,17 +137,26 @@ export const banner = (args?: string[]): string => {
 
           Selected Publications
           ---------------------
+          D. Garkov, T. Piselli, E. Di Giacomo, K. Klein, G. Liotta, F. Montecchiani, F. Schreiber:
+          "<a href="https://doi.org/10.1109/TVCG.2026.3671472"><u>Collaborative Problem Solving in Mixed Reality: A Study on Visual Graph Analysis</u></a>", IEEE Trans. Vis. Comput. Graphics, 2026. [<a href="https://doi.org/10.18419/DARUS-4231"><u>Data</u></a>]
+
+          D. Garkov, B. H. Thomas, G. Liotta, A. L. Jordan, K. Klein, F. Schreiber:
+          "<a href="https://doi.org/10.1109/HFIA68651.2025.00008"><u>Six Considerations for Designing and Evaluating Collaboration in Immersive Environments</u></a>", IEEE Conf. Hum. Fact. Immers. Anal., 2025.
+
+          D. Garkov, E. Lein, N. P. Kielkopf, C. Dullin, K. Klein, B. Sommer, A. L. Jordan, F. Schreiber:
+          "<a href="https://doi.org/10.1101/2025.06.17.659041"><u>Interactive delineation and quantification of anatomical structure with virtual reality</u></a>", bioRxiv (under review), 2025. [<a href="https://doi.org/10.18419/DARUS-4779"><u>Data</u></a>]
+
+          F. Schreiber, T. Czauderna, D. Garkov, N. Groene, K. Klein, M. Lange, U. Scholz, B. Sommer:
+          "<a href="https://doi.org/10.1515/jib-2025-0007"><u>Sustainable software development in science – insights from 20 years of Vanted</u></a>", J. Integr. Bioinform., 2025.
+
           D. Garkov, C. Müller, M. Braun, D. Weiskopf, F. Schreiber:
           "<a href="https://doi.org/10.1109/BELIV57783.2022.00011"><u>Research Data Curation in Visualization : Position Paper</u></a>", BELIV, 2022. [<a href="https://doi.org/10.18419/darus-3144"><u>Data</u></a>]
 
-          D. Bienroth, H. Nim, D.Garkov, K. Klein, S. Jaeger-Honz, M. Ramialison, F. Schreiber:
+          D. Bienroth, H. Nim, D. Garkov, K. Klein, S. Jaeger-Honz, M. Ramialison, F. Schreiber:
           "<a href="https://doi.org/10.1186/s42492-021-00098-6"><u>Spatially resolved Transcriptomics in Immersive Environments</u></a>", Vis. Comput. Ind. Biomed., 2022.
 
           K. Klein, D. Garkov, S. Rütschlin, T. Böttcher, F. Schreiber:
           "<a href="https://doi.org/10.1093/database/baab058"><u>QSDB - a graphical Quorum Sensing Database</u></a>", Database, 2021. [<a href="https://doi.org/10.18419/darus-3242"><u>Data</u></a>]
-
-          D. Garkov, E. Lein, C. Dullin, K. Klein, A. Jordan, F. Schreiber, B. Sommer:
-          "Towards an Immersive Analytics Application for Anatomical Fish Brain Data", BioVis, 2020 (poster).
 
           D. Garkov, K. Klein, C. Klukas, F. Schreiber:
           "<a href="https://doi.org/10.1515/jib-2019-0026"><u>Mental-Map Preserving Visualisation of Partitioned Networks in Vanted</u></a>", J. Integr. Bioinform., 2019.

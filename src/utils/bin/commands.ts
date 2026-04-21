@@ -111,7 +111,7 @@ export const banner = (args?: string[]): string => {
           - Network Visualisation and Analysis
           - Research Data Management and Curation
 
-          Teaching: Exercises & Workshops
+          Teaching Assistance
           -------------------------------
           WT 25/26    Computer Systems and Networks (two tutorials)
           ST 25       Seminar Life Science Informatics
